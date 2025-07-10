@@ -15,10 +15,10 @@ Sample data includes trips from cities like Chicago, IL to Rockford, IL, with me
 - `screenshots/`: Directory containing screenshots of the Shipping Dashboard.
 
 ## Screenshots
-- **Shipping Dashboard**: [Insert description or link to screenshot]
+- **Shipping Dashboard**: [https://github.com/abbasiibad/Shipping-Analytics/blob/345928fe10b398510ea235bc206d81503498dcb3/Trip.png]
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/Shipping-Analytics.git`
+1. Clone the repository: `https://github.com/abbasiibad/Shipping-Analytics.git`
 2. Open the `Trips.xlsx` file in Microsoft Power BI.
 3. Load the data into Power BI and explore the pre-built dashboard.
 
